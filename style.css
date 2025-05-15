@@ -1,3 +1,11 @@
+body {
+ background-image: url(https://i.pinimg.com/736x/60/26/0b/60260bdc06af0684d75a59bd99e37e83.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 .container {
   background: rgba(213, 204, 194, 0.8) !important;
   border-radius: 20px;
